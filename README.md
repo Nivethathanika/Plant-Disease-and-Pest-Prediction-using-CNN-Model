@@ -1,1 +1,1 @@
-# Plant-Disease-and-Pest-Prediction-using-CNN-Model
+# Plant-Disease-and-Pest-Prediction-using-Transversal-learning
